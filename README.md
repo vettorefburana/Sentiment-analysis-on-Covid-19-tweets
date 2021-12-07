@@ -17,6 +17,10 @@ The tweets are preprocessed using the following NLP methods:
 * Bag-of-POS model
 * Glove word embeddings
 
+Results:
+--------------------------------------------------------------------------------------------------------------------------------------
+* Among the machine learning classificators, XGBoost trained on a Bag-of-words model has the best performance in terms of accuracy (85%) and AOC ROC (92%)
+
 References: 
 ----------------------------------------------------------------------------------------------------------------------------------------
 * https://www.kaggle.com/andreshg/nlp-glove-bert-tf-idf-lstm-explained
