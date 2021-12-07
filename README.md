@@ -24,6 +24,7 @@ Results:
 References: 
 ----------------------------------------------------------------------------------------------------------------------------------------
 * https://www.kaggle.com/andreshg/nlp-glove-bert-tf-idf-lstm-explained
+* https://www.kaggle.com/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert#Bi-Directional-RNN's
 * Ferrario, A., & Nägelin, M. (2020). The art of natural language processing: classical, modern and contemporary approaches to text document classification. Modern and Contemporary Approaches to Text Document Classification (March 1, 2020).
 
 Data source: 
