@@ -2,20 +2,31 @@
 
 Objective: 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Classify 45k tweets on Covid-19 as positive or negative based on the following machine learning and deep learning models: 
+Classify 45k tweets on Covid-19 as positive or negative based on the following machine learning models: 
 
 * Multinomial Naive Bayes Model
 * Random Forests 
 * ADABoost
 * XGBoost
-* LSTM neural network
-* BERT transformers model
 
-The tweets are preprocessed using the following NLP methods: 
+and deep learning models:
+
+* Simple RNN
+* LSTM 
+* GRU
+* Bidirectional LSTM
+* BERT 
+
+For machine learning models, the tweets are preprocessed using the following NLP methods: 
 
 * Bag-of-words model
 * Bag-of-POS model
-* Glove word embeddings
+* Pre-trained Spacy word embeddings
+
+For the neural networks, we use the following preprocessing methods: 
+
+* Pre-trained Spacy word embeddings
+* Keras embedding layers
 
 Results:
 --------------------------------------------------------------------------------------------------------------------------------------
