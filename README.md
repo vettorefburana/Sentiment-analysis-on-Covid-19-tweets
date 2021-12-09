@@ -27,8 +27,8 @@ For neural networks, we use the following preprocessing methods:
 
 Results:
 --------------------------------------------------------------------------------------------------------------------------------------
-* Among the machine learning classificators, XGBoost trained on a Bag-of-words model has the best performance in terms of accuracy (85%) and AUC ROC (92%)
-* Among the deeplearning models, the GRU network with no preprocessing has the best performance (accuracy = 87% and AUC ROC = 95%)
+* Among machine learning models, XGBoost trained on a pre-trained word embedding has the best performance in terms of accuracy (84%) and AUC ROC (91%)
+* Among deeplearning models, BERT has the best performance (accuracy = 95%)
 
 References: 
 ----------------------------------------------------------------------------------------------------------------------------------------
