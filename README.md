@@ -27,8 +27,8 @@ For neural networks, we use the following preprocessing methods:
 
 Results:
 --------------------------------------------------------------------------------------------------------------------------------------
-* Among machine learning models, XGBoost trained on a pre-trained word embedding has the best performance in terms of accuracy (84%) and AUC ROC (91%)
-* Among deeplearning and transformers models, BERT has the best performance (accuracy = 95%)
+* Among machine learning models, XGBoost trained on a bag-of-words model has the best performance in terms of accuracy (82%) and AUC ROC (90%)
+* Among all models, BERT has the best performance (accuracy = 94%)
 
 References: 
 ----------------------------------------------------------------------------------------------------------------------------------------
